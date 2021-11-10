@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "title": "Picturesque Nebula",
+    "type": "group",
+    "coverUrl": "https://website-bucket-12234.s3.amazonaws.com/heic1520a.jpeg",
+    "components": [
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.us-east-1.amazonaws.com/heic1105a.jpeg"
+      },
+      {
+        "type": "text",
+        "title": "Nebula NGC 2014 & NGC 2020",
+        "desc": "The image features the giant nebula NGC 2014 and its neighbour NGC 2020 which together form part of a vast star-forming region in the Large Magellanic Cloud, a satellite galaxy of the Milky Way, approximately 163 000 light-years away."
+      },
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.amazonaws.com/heic1518a.jpeg"
+
+      },
+      {
+        "type": "text",
+        "title": "Pillars of Creation",
+        "desc": "The most iconic and popular image - the Eagle Nebula’s Pillars of Creation. This image shows the pillars as seen in visible light, capturing the multi-coloured glow of gas clouds, wispy tendrils of dark cosmic dust, and the rust-coloured elephants’ trunks of the nebula’s famous pillars"
+      },
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.amazonaws.com/heic1520a.jpeg"
+      },{
+        "type": "text",
+        "title": "Nebula NGC 2014 & NGC 2020",
+        "desc": "The image features the giant nebula NGC 2014 and its neighbour NGC 2020 which together form part of a vast star-forming region in the Large Magellanic Cloud, a satellite galaxy of the Milky Way, approximately 163 000 light-years away."
+      },
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.amazonaws.com/heic1518a.jpeg"
+
+      },
+      {
+        "type": "text",
+        "title": "Pillars of Creation",
+        "desc": "The most iconic and popular image - the Eagle Nebula’s Pillars of Creation. This image shows the pillars as seen in visible light, capturing the multi-coloured glow of gas clouds, wispy tendrils of dark cosmic dust, and the rust-coloured elephants’ trunks of the nebula’s famous pillars"
+      },
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.amazonaws.com/heic1520a.jpeg"
+      },{
+        "type": "text",
+        "title": "Nebula NGC 2014 & NGC 2020",
+        "desc": "The image features the giant nebula NGC 2014 and its neighbour NGC 2020 which together form part of a vast star-forming region in the Large Magellanic Cloud, a satellite galaxy of the Milky Way, approximately 163 000 light-years away."
+      },
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.amazonaws.com/heic1518a.jpeg"
+
+      },
+      {
+        "type": "text",
+        "title": "Pillars of Creation",
+        "desc": "The most iconic and popular image - the Eagle Nebula’s Pillars of Creation. This image shows the pillars as seen in visible light, capturing the multi-coloured glow of gas clouds, wispy tendrils of dark cosmic dust, and the rust-coloured elephants’ trunks of the nebula’s famous pillars"
+      },
+      {
+        "type": "image",
+        "url": "https://website-bucket-12234.s3.amazonaws.com/heic1520a.jpeg"
+      }
+    ]
+}
